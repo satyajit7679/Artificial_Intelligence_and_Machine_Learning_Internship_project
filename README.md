@@ -1,4 +1,5 @@
 **Documentation:**
+
 This project focuses on building a predictive model to identify bank customers who are likely to churn (i.e., leave the bank). The model leverages NumPy and Pandas for data manipulation and analysis, and utilizes machine learning techniques to achieve accurate predictions.
 
 Key Features:
