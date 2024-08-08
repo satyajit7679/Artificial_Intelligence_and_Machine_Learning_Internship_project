@@ -5,13 +5,17 @@ This project focuses on building a predictive model to identify bank customers w
 **Key Features:**
 
 Data Processing: Cleaning and preprocessing the customer data using Pandas and NumPy to prepare it for model training.
+
 Feature Engineering: Crafting relevant features that help the model understand patterns in customer behavior.
+
 Modeling: Applying various machine learning algorithms to predict customer churn, including:
-Logistic Regression
-Decision Trees
-Random Forest
-Support Vector Machines (SVM)
-Neural Networks
+
+    Logistic Regression
+    Decision Trees
+    Random Forest
+    Support Vector Machines (SVM)
+    Neural Networks
+    
 Evaluation: Assessing model performance using metrics such as accuracy, precision, recall, and F1-score.
 Artificial Intelligence: Incorporating AI techniques for model optimization and improving prediction accuracy.
 
