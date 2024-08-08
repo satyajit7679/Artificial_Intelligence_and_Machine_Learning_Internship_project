@@ -14,6 +14,7 @@ Support Vector Machines (SVM)
 Neural Networks
 Evaluation: Assessing model performance using metrics such as accuracy, precision, recall, and F1-score.
 Artificial Intelligence: Incorporating AI techniques for model optimization and improving prediction accuracy.
+
 **Repository Structure:**
 
 data/: Contains the dataset used for training and testing the model.
